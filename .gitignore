@@ -1,0 +1,25 @@
+# Segredos: NUNCA subir
+.env
+.env.*
+!.env.example
+.cache
+.cache-*
+
+# Ambiente virtual e caches do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos gerados
+cache_voz/
+build/
+dist/
+*.spec
+*.mp3
+models/
+
+# Editor / sistema
+.vscode/
+.idea/
+Thumbs.db

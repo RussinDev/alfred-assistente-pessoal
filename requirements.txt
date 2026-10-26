@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition
+PyAudio
+edge-tts
+pygame
+psutil
+requests
+beautifulsoup4
+pyautogui
+python-dotenv
+PySide6
